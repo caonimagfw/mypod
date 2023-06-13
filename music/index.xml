@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>My Music</title>
+    <googleplay:author>Green Man</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Beiping, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Green Man</author>
+    <itunes:author>Green Man</itunes:author>
+    <itunes:email>greenman@green.com</itunes:email>
+    <itunes:category text="Music" />
+    <image>
+      <url>http://192.168.2.233:1020/music/icon.jpg</url>
+      <title>My Music</title>
+      <link>https://www.google.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Green Man</itunes:name>
+      <itunes:email>greenman@green.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>music</itunes:keywords>
+    <copyright>Green Man</copyright>
+    <description>i am description</description>
+    <googleplay:image href="http://192.168.2.233:1020/music/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 4 Jun 2023 13:00:00 PDT</pubDate>
+    <link>https://www.gooogle.com/feed.xml</link>
+    <itunes:image href="http://192.168.2.233:1020/music/icon.jpg" />
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Music - 80' 90'</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/music/80-90.m4a" type="audio/m4a" length="758231644" />
+      <itunes:duration>01:57:16</itunes:duration>
+      <guid isPermaLink="false">mu01</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Music - 小田合正</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/music/xthz.m4a" type="audio/m4a" length="609576499" />
+      <itunes:duration>01:32:56</itunes:duration>
+      <guid isPermaLink="false">mu02</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Music - 张学友</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/music/zxy-32.m4a" type="audio/m4a" length="748055416" />
+      <itunes:duration>02:16:15</itunes:duration>
+      <guid isPermaLink="false">mu03</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+  </channel>
+</rss>

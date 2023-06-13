@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Title</title>
+    <googleplay:author>Green Man</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Beiping, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Green Man</author>
+    <itunes:author>Green Man</itunes:author>
+    <itunes:email>greenman@green.com</itunes:email>
+    <itunes:category text="Music" />
+    <image>
+      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
+      <title>Creative Engineering</title>
+      <link>https://www.google.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Green Man</itunes:name>
+      <itunes:email>greenman@green.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>music</itunes:keywords>
+    <copyright>Green Man</copyright>
+    <description>i am description</description>
+    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 4 Jun 2023 13:00:00 PDT</pubDate>
+    <link>https://www.gooogle.com/feed.xml</link>
+    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/m4a" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+  </channel>
+</rss>

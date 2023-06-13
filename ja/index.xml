@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Janpanese</title>
+    <googleplay:author>Green Man</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Beiping, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Green Man</author>
+    <itunes:author>Green Man</itunes:author>
+    <itunes:email>greenman@green.com</itunes:email>
+    <itunes:category text="Music" />
+    <image>
+      <url>http://192.168.2.233:1020/ja/icon.jpg</url>
+      <title>Janpanese</title>
+      <link>https://www.google.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Green Man</itunes:name>
+      <itunes:email>greenman@green.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>music</itunes:keywords>
+    <copyright>Green Man</copyright>
+    <description>i am description</description>
+    <googleplay:image href="http://192.168.2.233:1020/ja/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 4 Jun 2023 13:00:00 PDT</pubDate>
+    <link>https://www.gooogle.com/feed.xml</link>
+    <itunes:image href="http://192.168.2.233:1020/ja/icon.jpg" />
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Japanese - 200 Japanese Conversation</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/ja/200.m4a" type="audio/m4a" length="77192758" />
+      <itunes:duration>53:03</itunes:duration>
+      <guid isPermaLink="false">ja01</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Japanese - 70 Beginner</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/ja/70.m4a" type="audio/m4a" length="471141825" />
+      <itunes:duration>03:55:20</itunes:duration>
+      <guid isPermaLink="false">ja02</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Japanese - Listening Training</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/ja/lis.m4a" type="audio/m4a" length="94314851" />
+      <itunes:duration>59:46</itunes:duration>
+      <guid isPermaLink="false">ja03</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+
+    <item>
+      <author>Green Man</author>
+      <itunes:author>Green Man</itunes:author>
+      <title>Japanese - in 4 Hours</title>
+      <pubDate>Sat, 4 Jun 2023 13:00:00 GMT</pubDate>
+      <enclosure url="http://192.168.2.233:1020/ja/4h.m4a" type="audio/m4a" length="282336619" />
+      <itunes:duration>04:10:52</itunes:duration>
+      <guid isPermaLink="false">ja04</guid>
+      <itunes:explicit>no</itunes:explicit>mp
+      <description>i am description</description>
+    </item>
+  </channel>
+</rss>
